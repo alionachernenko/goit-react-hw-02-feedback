@@ -1,8 +1,4 @@
-import { Statistics } from "./Statistics/Statisticd"
-import { FeedbackOptions } from "./FeedbackOptions/FeedbackOptions";
-import { Section } from "./Section/Section";
-import { Notification } from "./Notification/Notification";
-
+import { Statistics, FeedbackOptions, Section, Notification} from 'components'
 
 import React, { Component } from "react";
 
